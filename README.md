@@ -8,6 +8,6 @@ https://levelup.gitconnected.com/sanitize-actuator-endpoint-with-sprint-boot-3-5
 The logfile endpoint is disabled by default. To enable it, you need to set either the logging.file.name or
 logging.file.path property in your application.properties or application.yml file.
 
-Go to
+To view the logfile go to
 
 http://localhost:8080/actuator/logfile
